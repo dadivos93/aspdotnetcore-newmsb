@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Client
+namespace MyCalculator
 {
     public class Class1
     {
